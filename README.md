@@ -21,18 +21,20 @@ Para ajudar na geração de empregos e empreendedorismo, vamos facilitar que ser
 # Requisitos Funcionais 
 
 - [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ] **Fazer Login**
+- [x] Cadastro de Item
+- [ ] Visualização dos itens - Listagem
+- [ ] Visualização dos itens - Detalhe
+- [ ] Agendamento de Entrega
+- [ ] Criar mockup inicial em wireframe
+- [ ] Criar personas para o sistema
 
 # Tecnologias Usadas
 
-- [Outsystem](https://flutter.dev/)
-- [HTML]
-- [CSS]
-- [JavaScript]
+- [Outsystem](https://outsystems.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/)
 
 # Contribuição
 
@@ -44,7 +46,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 # Agradecimentos
 
