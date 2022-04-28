@@ -1,6 +1,6 @@
 # MeAjudaAi
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://i.imgur.com/tbxNCj8.png)
 
 # Sobre o Projeto
 
