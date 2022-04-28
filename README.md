@@ -61,7 +61,7 @@ Thanks goes to these people ([emoji key][emojis]):
     <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rubens Tadeu</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcela Silva</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Vilela</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Henrique</b></sub></a><br /></td>
   </tr>
 </table>
 
