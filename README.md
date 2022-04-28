@@ -1,15 +1,10 @@
-# Título do Projeto
-
+# MeAjudaAi
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+Para ajudar na geração de empregos e empreendedorismo, vamos facilitar que serviços e/ou possíveis insumos sejam vendidos em um local unificado na forma de um aplicativo. Com ele, pequenas empresas ou profissionais autonomos não precisam se preocupar em manter um sistema ou criar um aplicativo próprio.
 
 # Índice/Sumário
 
@@ -34,11 +29,10 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Outsystem](https://flutter.dev/)
+- [HTML]
+- [CSS]
+- [JavaScript]
 
 # Contribuição
 
@@ -54,4 +48,3 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
