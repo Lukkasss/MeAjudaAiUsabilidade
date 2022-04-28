@@ -69,7 +69,6 @@ Thanks goes to these people ([emoji key][emojis]):
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
 # Licença
 
