@@ -46,18 +46,22 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 Thanks goes to these people ([emoji key][emojis]):
 
+## Contributors
+
+Thanks goes to these people ([emoji key][emojis]):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Arruda</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Willian Santos</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=audiolion" title="Documentation">📖</a></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jean Carlos</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=dnlsandiego" title="Code">💻</a></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rubens Tadeu</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=Miklet" title="Code">💻</a></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcela Silva</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=alejandronanez" title="Documentation">📖</a></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Vilela</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/issues?q=author%3Apbomb" title="Bug reports">🐛</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=pbomb" title="Code">💻</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=pbomb" title="Documentation">📖</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=pbomb" title="Tests">⚠️</a></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego</b></sub></a><br /><a href="#platform-wKovacs64" title="Packaging/porting to new platform">📦</a></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Arruda</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Willian Santos</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jean Carlos</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rubens Tadeu</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcela Silva</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Vilela</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego</b></sub></a><br /></td>
   </tr>
 </table>
 
