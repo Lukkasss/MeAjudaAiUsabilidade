@@ -21,13 +21,13 @@ Para ajudar na geração de empregos e empreendedorismo, vamos facilitar que ser
 # Requisitos Funcionais 
 
 - [x] **Cadastrar Usuário**
-- [ ] **Fazer Login**
+- [x] **Fazer Login**
 - [x] Cadastro de Item
-- [ ] Visualização dos itens - Listagem
-- [ ] Visualização dos itens - Detalhe
-- [ ] Agendamento de Entrega
-- [ ] Criar mockup inicial em wireframe
-- [ ] Criar personas para o sistema
+- [x] Visualização dos itens - Listagem
+- [x] Visualização dos itens - Detalhe
+- [x] Agendamento de Entrega
+- [x] Criar mockup inicial em wireframe
+- [x] Criar personas para o sistema
 
 # Tecnologias Usadas
 
@@ -55,13 +55,13 @@ Thanks goes to these people ([emoji key][emojis]):
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Arruda</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Willian Santos</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jean Carlos</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rubens Tadeu</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcela Silva</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/48627808?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Arruda</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/48627808?v=4" width="100px;" alt=""/><br /><sub><b>Willian Santos</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/48627808?v=4" width="100px;" alt=""/><br /><sub><b>Jean Carlos</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/52132728?v=4" width="100px;" alt=""/><br /><sub><b>Rubens Tadeu</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/48627808?v=4" width="100px;" alt=""/><br /><sub><b>Marcela Silva</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Vilela</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/158631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Henrique</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/48627808?v=4" width="100px;" alt=""/><br /><sub><b>Diego Henrique</b></sub></a><br /></td>
   </tr>
 </table>
 
